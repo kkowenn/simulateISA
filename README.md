@@ -1,4 +1,4 @@
-## Read Me for the CPU Simulation Program
+# CPU Simulation Program
 
 ### Overview
 This program simulates a simple CPU with basic arithmetic and bitwise operations. It initializes CPU registers with user-provided values and executes a series of instructions entered by the user. The program supports the following operations: `mov`, `add`, `sub`, `mul`, `div`, `lshift`, and `rshift`. It outputs the state of the CPU registers and memory before and after executing the instructions.
